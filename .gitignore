@@ -1,6 +1,9 @@
 # IDEA
 .idea
 /.idea
+.DS_Store
+.iml
+out/
 
 target/
 pom.xml.tag
